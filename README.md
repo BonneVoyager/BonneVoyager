@@ -16,6 +16,8 @@ Happy to connect at https://linkedin.com/in/kgutkowski/.
 
 - [ERC-20 utility token with $XXM market cap, swap and staking contracts](https://github.com/stormxio/stmx-token)
 - [Upgradable ERC-20 governance token with staking, batched payments and Merkle Tree claiming features](https://github.com/stormxio/athens-token)
+- [Uniswap v2 style AMM and taxable ERC-20](https://github.com/BonneVoyager/hardhat-amm-uniswap2-style)
+- [ERC-20 backup wallet and EIP-712 signature usage](https://github.com/BonneVoyager/truffle-backup-erc20)
 - [ETHWarsaw hackathon project for making conference communication frictionless for organizers and participants](https://github.com/BonneVoyager/ethwarsaw-hackathon)
 - [Test Instances Deployment Panel project showcase](./projects/deployment-panel.md)
 
