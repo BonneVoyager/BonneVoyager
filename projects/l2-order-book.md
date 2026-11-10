@@ -1,3 +1,0 @@
-# L2 Order Book Trading Platform
-
-TODO: add details...

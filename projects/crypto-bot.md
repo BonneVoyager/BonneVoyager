@@ -1,3 +1,0 @@
-# Crypto Trading Bot
-
-TODO: add details...
